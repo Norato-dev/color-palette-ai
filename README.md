@@ -13,7 +13,7 @@ Generación de paletas UI con IA — impulsado por LLaMA 3.3 70B vía Groq.
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-EF008F?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
 
-[**→ Ver demo en vivo**](https://palette-ai.vercel.app)
+[**→ Ver demo en vivo**](https://color.davidnorato.dev/)
 
 </div>
 
